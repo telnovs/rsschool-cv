@@ -49,7 +49,7 @@ import React from 'react';
 
 
 
-© 2020 GitHub, Inc.
+© 2022 GitHub, Inc.
 ```
 
 ### Work experience
